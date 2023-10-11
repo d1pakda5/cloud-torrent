@@ -1,4 +1,5 @@
 /* globals app,window */
+/*ddd */
 
 app.service('api', function($rootScope, $http, reqerr) {
   window.http = $http;
